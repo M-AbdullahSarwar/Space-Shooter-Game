@@ -1,1 +1,1 @@
-this is read me file.
+This Game is created using graphics.h.
